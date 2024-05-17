@@ -110,20 +110,6 @@ int main() {
   - Chama a função `dijkstra` para calcular as menores distâncias a partir do nó 0.
   - Imprime as menores distâncias para cada nó.
 
-## Como Executar
-
-1. **Compilar**:
-   - Use um compilador C++ como `g++` para compilar o código:
-   ```bash
-   g++ -o dijkstra dijkstra.cpp
-   ```
-
-2. **Executar**:
-   - Execute o programa compilado:
-   ```bash
-   ./dijkstra
-   ```
-
 ## Exemplo de Saída
 
 ```bash
